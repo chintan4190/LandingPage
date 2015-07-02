@@ -1,0 +1,254 @@
+@media (min-width: 1200px) {
+  .container-fluid {
+    width: 1280px;
+  }
+}
+@media (min-width: 1400px) {
+  .container-fluid {
+    width: 1170px;
+  }
+}
+/* Education */
+.educationContent {
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.degreeType {
+	background-color: #5b5b5b;
+	color: #fff;
+
+}
+
+.educationElement > h6 {
+	font-weight: bold;
+}
+
+.educationDate {
+	font-size: 10px;
+	font-weight: normal;
+}
+
+span.gpa {
+	background-color: #eef9fe;
+	color: #5b5b5b;
+}
+
+/* Personality */
+
+.personalityTrait > .col-md-2 > p {
+	text-align: center;
+	font-size: 12px;
+}
+.personalityCharacteristicBlock {
+	margin: 15px 0px;
+}
+
+.personalityTrait > .row > h5 {
+	text-align: center;
+}
+.personalityContent {
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.personalInfoContent > .row {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.personalityHeader > h6 {
+	font-weight: bold;
+}
+
+.personalityCharacteristic {
+	background-color: #5b5b5b;
+}
+
+.progress-bar.progress-bar-invisible {
+	opacity: 0;
+}
+
+.progress-bar {
+	background-color: #1bb0f8;
+}
+
+.personalityTrait {
+
+}
+.personalityHeader {
+	text-align: center;
+}
+
+.personalityTraitLabel {
+	font-weight: bold;
+}
+
+/*Skills */
+
+.skillsContent {
+	padding-top: 20px;
+}
+
+.skillsList {
+	list-style-type: none;
+	padding-left: 0px;
+}
+.skillElement {
+	display: inline;
+	margin: 3px;
+	background-color: #1bb0f8;
+}
+
+
+/* Experience */
+.experienceDuration {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.experienceLocation {
+	margin-right: 10px;
+	margin-left: 10px;
+	padding: 3px 5px;
+	border-radius: 10px;
+	background-color: #5b5b5b;
+	color: #fff;
+}
+
+.experienceTitle {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.experienceContent {
+	padding-top: 20px;
+}
+
+
+
+/* Personal Info Block */
+
+.personalInfoLabel > p {
+	font-weight: bold;
+}
+
+.personalInfoContent {
+	padding-top: 20px;
+	padding-left: 20px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+
+/* Header */
+.small {
+	font-size: 8px;
+}
+.headerInfo {
+	padding-left: 25px;
+	margin-top: 15px;
+}
+
+span.scoreLabel {
+	background-color: #fff;
+	color: #5b5b5b;
+	font-size: 25px;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+.headerScore {
+	margin-top: 15px;
+}
+
+.candidateHeader {
+	height: 160px;
+	background-color: #333;
+	color: #fff;
+}
+
+.candidateProfilePicture {
+	height: 135px;
+}
+
+/* Global Stuff */
+
+.candidateLabel {
+	margin: 3px;
+	padding: 3px 5px;
+	border-radius: 5px;
+	color: #fff;
+}
+
+.spaced {
+	margin: 15px 0px;
+}
+
+.smallBlueLine {
+	margin: 10px auto;
+	height: 2px;
+	border-radius: 5px;
+	width: 120px;
+	background-color: #1bb0f8;
+}
+
+.smallThinBlueLine {
+	margin: 10px auto;
+	height: 1px;
+	border-radius: 5px;
+	width: 120px;
+	background-color: #1bb0f8;
+}
+
+body {
+	font-size: 10px;
+}
+
+.candidateBody {
+	background-color: #f8f8f8;
+}
+.candidateBlock {
+	background-color: #fff;
+	padding: 10px;
+	margin-top: 20px;
+	border-radius: 5px;
+}
+
+.videoNavigation {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.candidateBlockLarge {
+	background-color: #fff;
+	padding: 10px;
+	margin-top: 20px;
+	border-radius: 5px;
+}
+.contentHeaderSmall {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.contentHeaderLarge {
+	text-align: left;
+	margin-bottom: 20px;
+}
+.row {
+	padding: 10px;
+}
+
+.candidateVideo {
+	margin: 20px 15px 15px 10px;
+}
+
+.top1{
+	margin-top: 1%;
+}
+.custom-nav-bar{
+  margin-top: -2%;
+  height: 73px !important;
+  background-color: #000;
+}
